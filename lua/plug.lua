@@ -29,6 +29,7 @@ return require("packer").startup(function(use)
 	-- [[ LSP ]]
 	use({ "neovim/nvim-lspconfig" })
 	use({ "onsails/lspkind.nvim" })
+  use({ "JuliaEditorSupport/julia-vim" })
 
 	-- [[ Snippet engine ]]
 	use({ "L3MON4D3/LuaSnip" })

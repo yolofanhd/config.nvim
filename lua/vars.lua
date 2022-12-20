@@ -49,7 +49,9 @@ variables.servers = {
   "sqlls",
   "texlab",
   "pyright",
-  "julials"
+  "julials",
+  "clangd",
+  "cmake"
 }
 
 variables.cmp = {

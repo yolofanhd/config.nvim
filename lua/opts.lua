@@ -41,4 +41,3 @@ autocmd(
     { "BufRead", "BufNewFile" },
     { pattern = { "*.txt", "*.md", "*.tex" }, command = "setlocal spell spelllang=de_at" }
 )
-
